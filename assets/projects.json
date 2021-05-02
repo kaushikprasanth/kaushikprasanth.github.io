@@ -1,0 +1,32 @@
+[
+    {
+    "title":"Splitter",
+    "link":"http://splitter-agavh.mongodbstitch.com/",
+    "desc":"Web Application to track, split and analyze your bills and expenses",
+    "img":"./assets/Splitter.png",
+    "link_text":"Link to the App"
+},
+{
+    "title":"Divvy View",
+    "link":"https://divvy-view.herokuapp.com/",
+    "desc":"",
+    "img":"./assets/Search_Station.gif",
+    "link_text":"Link to the App"
+
+},
+{
+    "title":"Dash Plotly",
+    "link":"https://github.com/kaushikprasanth/head-with-data-outliers",
+    "desc":"Python Vizualisation developed as part of the \"Head first with data\" event organized by the INFORMS UIC chapter. Our team Outliers won the \"Developer's Favorite\" award from the judges.",
+    "img":"./assets/Head With Data Team Outliers.png",
+    "link_text":"GitHub"
+
+},
+{
+    "title":"OnTime",
+    "link":"./OnTime/",
+    "desc":"Fleet Management and Bus Ticketing System",
+    "img":"./assets/OntimeApp.png",
+    "link_text":"More.."
+}
+]

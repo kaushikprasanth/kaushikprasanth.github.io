@@ -1,0 +1,59 @@
+[
+    {
+        "major": "Full Stack Web Developer",
+        "url": "https://www.dgtl-factory.com/",
+        "img": "/assets/dgtlfactory.jfif",
+        "school": "Digital Factory",
+        "location_map": "https://goo.gl/maps/qz8fu7ueJGmMuMtB8",
+        "location": "Chicago,Illinois",
+        "duration":"Aug 2020 - Present"
+    },
+    {
+        "major": "Project Intern",
+        "url": "https://www.7qubes.com/",
+        "img": "/assets/7QUBES.png",
+        "school": "7Qubes",
+        "location_map": "https://goo.gl/maps/zdNYxwis5K2gF8jt5",
+        "location": "Chicago,Illinois",
+        "duration":"Aug 2020 - Present"
+    },
+    {
+        "major": "Associate IT Consultant (Digital Manufacturing)",
+        "url": "https://www.itcinfotech.com/",
+        "img": "/assets/itc-logo.png",
+        "school": "ITC Infotech India Limited",
+        "location_map": "https://goo.gl/maps/hSAZAfbMYQ2jscAp6",
+        "location": "Bangalore,India",
+        "duration":"July 2017 - June 2019"
+
+    },
+    {
+        "major": "Project Intern",
+        "url": "https://www.larsentoubro.com/corporate/about-lt-group/facilities/india/coimbatore-tamil-nadu/",
+        "img": "/assets/landt.jpg",
+        "school": "Precision Maching Center,Larsen & Toubro",
+        "location": "Coimbatore,India",
+        "location_map": "https://goo.gl/maps/2STZ9FxjVV7SAbyM7",
+        "duration":"Nov 2016 - April 2017"
+    },
+    {
+        "major": "Summer Intern",
+        "url": "https://www.tatamotors.com/about-us/facilities/",
+        "img": "/assets/Tata_Motors_Logo.svg",
+        "school": "Tata Motors",
+        "location": "Pune,India",
+        "location_map": "https://goo.gl/maps/q6aNeUooniuUJKKd8",
+        "duration":"May 2015 - July 2015"
+
+    },
+    {
+        "major": "Industrial Trainee",
+        "url": "https://www.miraalloysteels.com/index.php",
+        "img": "/assets/mira.png",
+        "school": "Mira Alloy Steels",
+        "location": "Coimbatore,India",
+        "location_map": "https://goo.gl/maps/Bzo5BkywQL8NLBrT7",
+        "duration":"Dec 2015 - March 2016"
+
+    }
+]

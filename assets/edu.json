@@ -1,0 +1,25 @@
+[
+    {
+"title":"Master of Science",
+"major":"Management Information Systems",
+"url":"https://uic.edu/",
+"img":"./assets/UIC.PNG",
+"school":"University of Illinois at Chicago",
+"location_map":"https://goo.gl/maps/s3r4U3ba1jpBng22A",
+"location":"Chicago,IL",
+"duration":"Aug 2019 - Dec 2020",
+"courses":[]
+
+},
+{
+    "title":"Bachelor of Engineering",
+    "major":"Production Engineering(SW)",
+    "url":"http://www.psgtech.edu/",
+    "img":"./assets/psg.gif",
+    "school":"PSG College of Technology",
+    "location_map":"https://goo.gl/maps/DzsR4b8i8xgSdV2r5",
+    "location":"Coimbatore,India",
+    "duration":"July 2012 - April 2017",
+    "courses":[]
+}
+]
