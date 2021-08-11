@@ -1,21 +1,39 @@
 [
     {
+        "major": "IoT Solutions Engineer",
+        "url": "https://eacpds.com/",
+        "img": "/assets/EAC.svg",
+        "school": "EAC Product Development Solutions",
+        "location_map": "",
+        "location": "Chicago,Illinois",
+        "duration":"June 2021 - Present"
+    },
+    {
+        "major": "Software Engineering Intern",
+        "url": "https://www.litpoodle.com/",
+        "img": "/assets/LitPoodle.png",
+        "school": "Litpoodle",
+        "location_map": "",
+        "location": "Chicago,Illinois",
+        "duration":"Mar 2021 - May 2021"
+    },
+    {
         "major": "Full Stack Web Developer",
         "url": "https://www.dgtl-factory.com/",
         "img": "/assets/dgtlfactory.jfif",
         "school": "Digital Factory",
-        "location_map": "https://goo.gl/maps/qz8fu7ueJGmMuMtB8",
+        "location_map": "",
         "location": "Chicago,Illinois",
-        "duration":"Aug 2020 - Present"
+        "duration":"Aug 2020 - Dec 2020"
     },
     {
         "major": "Project Intern",
         "url": "https://www.7qubes.com/",
         "img": "/assets/7QUBES.png",
         "school": "7Qubes",
-        "location_map": "https://goo.gl/maps/zdNYxwis5K2gF8jt5",
+        "location_map": "",
         "location": "Chicago,Illinois",
-        "duration":"Aug 2020 - Present"
+        "duration":"Aug 2020 - Dec 2020"
     },
     {
         "major": "Associate IT Consultant (Digital Manufacturing)",
